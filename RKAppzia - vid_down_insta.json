@@ -3,12 +3,12 @@
   "fb_interstitial": "564552451311395_564557027977604",
   "fb_native": "564552451311395_564557111310929",
   "fb_mid_rect": "564552451311395_564557074644266",
-  "admob_pub_id" : "pub-7542080399448643",
-  "admob_app_id" : "ca-app-pub-7542080399448643~1067415998",
-  "admob_banner": "ca-app-pub-7542080399448643/9495404032",
-  "admob_interstitial": "ca-app-pub-7542080399448643/8560955689",
-  "admob_native": "ca-app-pub-7542080399448643/2069190214",
-  "new_pkg": "abc.xyz",
+  "admob_pub_id" : "pub-3940256099942544",
+  "admob_app_id" : "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "/21952429235,22644075336/TTS_VIDEODOWNLOADERFORINSTAGRAM_BANNER_AD",
+  "admob_interstitial": "/21952429235,22644075336/TTS_VIDEODOWNLOADERFORINSTAGRAM_INTERSTITIAL",
+  "admob_native": "/21952429235,22644075336/TTS_VIDEODOWNLOADERFORINSTAGRAM_NATIVE_AD",
+  "new_pkg": "com.rkappzia.videodownloaderforinstagram.reelsdownloader",
   "is_version": "false",
   "ad_type": "1"
 }
