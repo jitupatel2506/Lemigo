@@ -5,9 +5,9 @@
   "fb_mid_rect": "564552451311395_564557074644266",
   "admob_pub_id" : "pub-7542080399448643",
   "admob_app_id" : "ca-app-pub-7542080399448643~1067415998",
-  "admob_banner": "/21753324030,22764336884/com.rkappzia.videodownloaderforinstagram.reelsdownloader_Banner",
-  "admob_interstitial": "/21753324030,22764336884/com.rkappzia.videodownloaderforinstagram.reelsdownloader_Interstitial",
-  "admob_native": "/21753324030,22764336884/com.rkappzia.videodownloaderforinstagram.reelsdownloader_Native",
+  "admob_banner": "",
+  "admob_interstitial": "",
+  "admob_native": "",
   "new_pkg": "com.downshot.videodownloader.videodownloadapp.freevideodownloader.fbvideodownloader.igstorysaver.reelsdownloader.storysaver.statussaver",
   "is_version": "true",
   "ad_type": "1"
